@@ -16,10 +16,10 @@ function App() {
     <div>
       <h1>Todo List</h1>
         <ul>
-          hint: {todoList.map (function (item) {
-          return <li key = {item.id}>
-                    <span>{item.id}</span>
-                    <span>{item.title}</span>
+          hint: {todoList.map (function (todo) {
+          return <li key = {todo.id}>
+                    <span>{todo.id}</span>
+                    <span>{todo.title}</span>
                  </li>;
                 
         })}
