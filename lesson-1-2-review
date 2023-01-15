@@ -1,0 +1,2 @@
+Quite commentable, you have correctly separate impplimentation into logical components. You have used descripive variables names and ensured readerbity of the code.
+File names are okay. A small reminder for the branch name "lesson-1-2" make the name more of a sentense rather than a title. For example "lesson-1-2-React-dom and component 
